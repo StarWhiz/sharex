@@ -1,0 +1,3 @@
+# What the .sxb config does
+
+ ![](uploads/58040d4f-6956-478b-af72-b8669af438e0/b05a95ae-b29b-4dc3-9cb8-1bdb5cfefd1c/Untitled.png) ![](uploads/58040d4f-6956-478b-af72-b8669af438e0/973acdb3-3915-4d54-b5a5-d9fbe6cae4a6/Untitled.png) ![](uploads/58040d4f-6956-478b-af72-b8669af438e0/6598974a-47c1-4792-a524-c212125c44f3/Untitled.png) ![](uploads/58040d4f-6956-478b-af72-b8669af438e0/9c2c4876-07c2-455f-94c4-5695aa0d59c8/Untitled.png) ![](uploads/58040d4f-6956-478b-af72-b8669af438e0/8f924929-64e8-4f29-83ab-c5d93eb005e9/Untitled.png) ![](uploads/58040d4f-6956-478b-af72-b8669af438e0/b438cdfd-e088-4aa9-8516-665c81b2f8bf/Untitled.png)
