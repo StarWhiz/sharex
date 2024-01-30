@@ -4,12 +4,8 @@
 
 In my opinion, it’s the best screenshot + screen recorder for Windows! Loads of productivity.
 
-
-:::info
-Start by downloading and installing ShareX it here: [https://getsharex.com/downloads](https://getsharex.com/downloads "https://getsharex.com/downloads") choose the one ending in  “-setup.exe”
-
-:::
-
+> [!NOTE]
+> Start by downloading and installing ShareX it here: [https://getsharex.com/downloads](https://getsharex.com/downloads "https://getsharex.com/downloads") choose the one ending in  “-setup.exe”
 
 ## Getting my Config Loaded
 
@@ -19,7 +15,7 @@ This config is recommended. Go ahead and download the config below. Optionally y
 
 After downloading….
 
-[Import The Config v2 1720x1134](uploads/58040d4f-6956-478b-af72-b8669af438e0/8cfaeef1-b369-4aa9-8834-a4dba3c51513/Import%20The%20Config%20v2.mp4)
+https://github.com/StarWhiz/sharex/assets/9423276/358b254b-5d2a-4676-ac5a-3b6976a6b3f5
 
 Go to ShareX icon on the bottom right of your Taskbar and right click it. Then go to Application Settings… 
 
@@ -31,12 +27,8 @@ That’s it! Now you’re ready to use ShareX
 
 
 # II. Basic Usage: Screenshots
-
-
-:::info
-If your “prnt scrn” button opens the Windows snipping tool or doesn’t work try [this](https://owiki.stoplagging.com/s/sharex#h-prnt-scrn-doesnt-work).
-
-:::
+> [!TIP]
+> If your “prnt scrn” button opens the Windows snipping tool or doesn’t work try [this](https://owiki.stoplagging.com/s/sharex#h-prnt-scrn-doesnt-work).
 
 This is as easy as pressing **“Prnt Scrn”** on your keyboard. Then either
 
@@ -52,31 +44,29 @@ From there you can do the following:
 
 [PRO TIP: Saving first then clicking the thumbnail that appears on the bottom right opens the folder where it saves! 1918x1074](uploads/58040d4f-6956-478b-af72-b8669af438e0/bc9ea3e5-fc43-4028-b35c-ac2df2bd2477/Save%20And%20clicking%20Thumbnail%20opens%20folder.mp4)
 
+https://github.com/StarWhiz/sharex/assets/9423276/33bf2801-8b1a-449f-b76c-f9f21fe296ad
+
+
 * Copy image - This copies the image to your clipboard. Try pasting it in a Discord message for practice!
 
-
-[Copy Image then paste to Discord Demo 1936x1194](uploads/58040d4f-6956-478b-af72-b8669af438e0/33d74e0b-6651-4e17-bdca-62fa3eff54e3/Copy%20Pasting%20to%20Discord.mp4)
+https://github.com/StarWhiz/sharex/assets/9423276/bf95e192-4326-4b05-9c13-714f7ab33edb
 
 * Annotate - Lets you edit the image before you either copy it to clipboard or save it. You can also use it as a temporarily note taking window and choose to close it if you don’t need it.
 
-[Demoing The Annotate Feature! 784x542](uploads/58040d4f-6956-478b-af72-b8669af438e0/45088e49-de34-418f-847f-85130a483af4/Annotate.mp4)
+https://github.com/StarWhiz/sharex/assets/9423276/c278532c-ac0a-4eb7-ba78-c99dbad6755c
 
+> [!WARNING]
+> Please note, you can only have up to 5 annotate windows open. If you have more than 5 you'll have to start closing some for new ones to show up.
 
-:::warning
-You can only have up to 5 annotate windows open.
-
-
-Pro Tip: Sometimes I use the annotate feature as a temporary window that I can reference on a different monitor or screen and then close it without saving.
-
-:::
-
+> [!TIP]
+> Pro Tip: Sometimes I use the annotate feature as a temporary window that I can reference on a different monitor or screen and then close it without saving.
 
 ## Re-annotating image
 
 To do this right click on the image you saved and click “Edit with shareX”
 
+https://github.com/StarWhiz/sharex/assets/9423276/833cffaa-815b-4f54-a548-a27516976018
 
-[Re-annotate / edit Image w Sharex 1362x810](uploads/58040d4f-6956-478b-af72-b8669af438e0/71440d86-89a9-4757-9fe5-4167c3ac208c/Reedit%20Image%20w%20Sharex.mp4)
 
 # III. Basic Usage: Screen Recordings
 
@@ -100,8 +90,7 @@ You can do voiceovers as you screen record by doing the following.
 * Under “Audio source:” choose your preferred microphone.
 * That’s it! Now take a screen recording and talk!
 
-
-[Setting Up Voiceovers For ShareX 1190x720](uploads/58040d4f-6956-478b-af72-b8669af438e0/a99da4d9-40a7-4fca-9e06-4ad44c8bc294/SettingUpVoiceoversForSharex.mp4)
+https://github.com/StarWhiz/sharex/assets/9423276/178a873c-43dd-4475-ba2f-3b2f3a3e18aa
 
 # Troubleshooting
 
