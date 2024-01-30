@@ -28,7 +28,7 @@ That’s it! Now you’re ready to use ShareX
 
 # II. Basic Usage: Screenshots
 > [!TIP]
-> If your “prnt scrn” button opens the Windows snipping tool or doesn’t work try [this](https://owiki.stoplagging.com/s/sharex#h-prnt-scrn-doesnt-work).
+> If your “prnt scrn” button opens the Windows snipping tool or doesn’t work try [this](https://github.com/StarWhiz/sharex/blob/main/README.md#prnt-scrn-doesnt-work)
 
 This is as easy as pressing **“Prnt Scrn”** on your keyboard. Then either
 
