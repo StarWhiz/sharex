@@ -9,7 +9,7 @@ In my opinion, it’s the best screenshot + screen recorder for Windows! Loads o
 
 ## Getting my Config Loaded
 
-This config is recommended. Go ahead and download the config below. Optionally you can find out what it does [here](./ShareX%20Best%20Windows%20Screenshot%20Tool/What%20the%20.sxb%20config%20does.md).
+This ShareX-15.0.0-frozconfig.sxb 15074 is recommended. Go ahead and download the config below. Optionally you can find out what it [does](./ShareX%20Best%20Windows%20Screenshot%20Tool/What%20the%20.sxb%20config%20does.md).
 
 [ShareX-15.0.0-frozconfig.sxb 15074](uploads/58040d4f-6956-478b-af72-b8669af438e0/d4e822e5-892f-45a6-bd53-136d4b415bcb/ShareX-15.0.0-frozconfig.sxb)
 
